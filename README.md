@@ -1,4 +1,4 @@
-# Legal Red Flag Scanner (Gemma 2 Fine-Tune)
+# Legal Red Flag Scanner
 
 An end-to-end local LLM application that scans legal contracts for specific clauses and risks.
 
