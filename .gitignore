@@ -1,0 +1,7 @@
+legal_scanner_data.jsonl
+venv_wsl/
+frontend/node_modules/
+frontend/.next/
+frontend/.git
+*.pyc
+__pycache__/

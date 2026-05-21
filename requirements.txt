@@ -1,0 +1,16 @@
+streamlit==1.32.0
+pandas
+datasets
+torch
+transformers
+trl
+peft
+accelerate
+bitsandbytes
+pdfplumber
+docx2txt
+pytesseract
+Pillow
+fastapi
+uvicorn
+python-multipart
